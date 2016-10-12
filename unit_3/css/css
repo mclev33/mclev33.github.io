@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	background: url("images/pulling_for_kids_logo_copy.jpg");
 	background-size: cover;
-	text-color: #000;
+	color: #000;
 	font-family: helvetica;
 }
 hr {
@@ -10,7 +10,7 @@ hr {
 }
 h1 {
 	text-align: center;
-	text-color: #444;
+	color: #444;
 	font-size: 18px;
 	font-weight: bold;
 }
