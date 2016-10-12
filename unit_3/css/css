@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	background: url("https://pullingforkids.org/wp-content/uploads/2015/11/p4k-copy-2.png");
 	background-size: cover;
-	color: #000;
+	color: #2f3549;
 	font-family: helvetica;
 }
 hr {
@@ -10,7 +10,7 @@ hr {
 }
 h1 {
 	text-align: center;
-	color: #444;
+	color: #000000;
 	font-size: 18px;
 	font-weight: bold;
 }
