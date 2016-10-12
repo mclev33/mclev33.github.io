@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url("images/pulling_for_kids_logo_copy.jpg");
+	background: url("unit_3/images/pulling_for_kids_logo_copy.jpg");
 	background-size: cover;
 	color: #000;
 	font-family: helvetica;
