@@ -1,8 +1,12 @@
 body {
 	text-align: center;
-	background: url(images/pulling_for_kids_logo_copy.jpg);
+	background: url("images/pulling_for_kids_logo_copy.jpg");
 	background-size: cover;
 	text-color: #000;
+	font-family: helvetica;
+}
+hr {
+	width: 800px;
 }
 h1 {
 	text-align: center;
