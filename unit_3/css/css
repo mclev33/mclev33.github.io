@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background: url("mclev33.github.io/unit_3/images/pulling_for_kids_logo_copy.jpg");
+	background: url("https://pullingforkids.org/wp-content/uploads/2015/11/p4k-copy-2.png");
 	background-size: cover;
 	color: #000;
 	font-family: helvetica;
