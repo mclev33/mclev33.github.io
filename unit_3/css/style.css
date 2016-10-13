@@ -1,9 +1,9 @@
 body {
-	text-align: center;
 	background: url("https://pullingforkids.org/wp-content/uploads/2015/11/p4k-copy-2.png");
 	background-size: cover;
-	color: #2f3549;
+	text-align: center;
 	font-family: helvetica;
+	color: #2f3549;
 }
 hr {
 	width: 800px;
