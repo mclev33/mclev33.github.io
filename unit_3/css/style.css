@@ -1,4 +1,5 @@
 <link href="https://fonts.googleapis.com/css?family=Questrial|Shadows+Into+Light" rel="stylesheet">
+
 body {
 	text-align: center;
 	font-family: helvetica;
@@ -15,14 +16,14 @@ h1 {
 	color: #000000;
 	font-size: 18px;
 	font-weight: bold;
-	font-family: 'Questrial';
+	font-family: 'Questrial', sans-serif;
 }
 h2 {
 	text-align: left;
 	color: #000000;
 	font-size: 18px;
 	font-weight: bold;
-	font-family: 'Shadows Into Light';
+	font-family: 'Shadows Into Light', cursive;
 }
 p {
 	text-align: left;
