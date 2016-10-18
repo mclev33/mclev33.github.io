@@ -5,10 +5,10 @@ body {
 }
 hr {
 	width: 800px;
-	alignment-baseline: center;
+
 }
 h1 {
-	text-align: center;
+	text-align: left;
 	color: #000000;
 	font-size: 18px;
 	font-weight: bold;
