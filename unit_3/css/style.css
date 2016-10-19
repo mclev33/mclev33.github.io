@@ -2,6 +2,8 @@
 
 body {
 	text-align: center;
+	background: "preschoolgirlwithchalkboard.jpg";
+	background-size: cover;
 	font-family: helvetica;
 	color: #000000;
 	margin-left: 5em;
