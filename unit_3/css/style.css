@@ -9,7 +9,7 @@ body {
 	margin-right: 5em;
 }
 hr {
-	text-align:left;
+	align-self: left;
 	width: 800px;
 
 
