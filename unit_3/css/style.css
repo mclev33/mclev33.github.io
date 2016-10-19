@@ -9,7 +9,7 @@ body {
 	margin-right: 5em;
 }
 hr {
-	height:3px; border:none; color:black; background-color: black;
+	height:3px; border:none; color:black; text-align:left;
 	width: 800px;
 
 
