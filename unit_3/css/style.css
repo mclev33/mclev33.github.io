@@ -1,5 +1,4 @@
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css?family=Roboto|Trirong" rel="stylesheet">
 
 body {
 	text-align: center;
@@ -19,14 +18,14 @@ h1 {
 	color: #000000;
 	font-size: 18px;
 	font-weight: bold;
-	font-family: 'roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 h2 {
 	text-align: left;
 	color: #000000;
 	font-size: 16px;
 	font-weight: bold;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Trirong', serif;
 }
 p {
 	text-align: left;
