@@ -1,9 +1,10 @@
 div {
-	
+	color: #fff;
+
 }
 body {
 	text-align: left;
-	background: url('../images/preschoolgirlwithchalkboard.jpg');
+	background: url('../images/.jpg');
 	background-size: cover;
 	font-family: helvetica;
 	color: #fff;
