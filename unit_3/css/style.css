@@ -2,6 +2,7 @@
 
 body {
 	text-align: left;
+	background: url(preschoolgirlwithchalkboard.jpg);
 	background-size: cover;
 	font-family: helvetica;
 	color: #000000;
@@ -10,8 +11,6 @@ body {
 }
 hr {
 	width: 800px;
-
-
 }
 h1 {
 	text-align: left;
@@ -30,7 +29,7 @@ h2 {
 p {
 	text-align: left;
 	color: #000000;
-	font-family: 'Trorong', serif
+	font-family: 'Trirong', serif
 	font-size:14px;
 }
 ul {
