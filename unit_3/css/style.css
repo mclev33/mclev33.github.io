@@ -1,14 +1,12 @@
+<link href="https://fonts.googleapis.com/css?family=Roboto|Trirong" rel="stylesheet">
+
 body {
 	text-align: left;
-	background: url('');
-	background-size: cover;
-	font-family: helvetica;
+	
 	color: #fff;
+	font-family: helvetica;
 	margin-left: 5em;
 	margin-right: 5em;
-}
-hr {
-	width: 800px;
 }
 h1 {
 	text-align: left;
