@@ -6,6 +6,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size:16px;
 	font-weight:400;
+	padding: 5em;
 }
 p {
 	max-width: 700px;
@@ -36,7 +37,7 @@ header {
 	padding: 20px;
 }
 nav {
-	float: right;
+	float: left;
 	background-color: #e8c66a;
 	border: 1px black solid;
 	padding: 20px;
