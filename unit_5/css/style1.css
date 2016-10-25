@@ -8,7 +8,9 @@ body {
 	font-weight:400;
 }
 section {
-	padding:4em 0;
+	background-color: ffe2b8;
+	border: 1px black solid;
+	padding:4em 0;	
 }
 h1 {
 	font-size: 1.5em;
@@ -23,15 +25,21 @@ ul {
 }
 header img {
 	width: 10em;
-	background-color: ffec74;
+}
+header {
+	background-color: ffed74;
+	border: 1px black solid;
+	padding: 20px;
 }
 nav {
 	background-color: e8c66a;
+	border: 1px black solid;
+	padding: 20px;
 }
 footer {
 	background-color: ff957e;
+	border: 1px black solid;
+	padding: 20px;
 }
-section {
-	background-color: ffe2b8;
-}
+
 
