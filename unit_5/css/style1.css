@@ -10,7 +10,8 @@ body {
 }
 p {
 	max-width: 700px;
-	word-wrap: break-word; 
+	word-wrap: break-word;
+	padding: 20px; 
 }
 section {
 	background-color: #ffe2b8;
