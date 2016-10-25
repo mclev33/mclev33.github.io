@@ -8,7 +8,7 @@ body {
 	font-weight:400;
 }
 section {
-	background-color: ffe2b8;
+	background-color: #ffe2b8;
 	border: 1px black solid;
 	padding:4em 0;	
 }
@@ -27,18 +27,18 @@ header img {
 	width: 10em;
 }
 header {
-	background-color: ffed74;
+	background-color: #ffed74;
 	border: 1px black solid;
 	padding: 20px;
 }
 nav {
 	text-align: justify;
-	background-color: e8c66a;
+	background-color: #e8c66a;
 	border: 1px black solid;
 	padding: 20px;
 }
 footer {
-	background-color: ff957e;
+	background-color: #ff957e;
 	border: 1px black solid;
 	padding: 20px;
 }
