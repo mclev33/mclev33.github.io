@@ -23,4 +23,21 @@ ul {
 }
 header img {
 	width: 10em;
+	color: ffec74;
 }
+nav {
+	color: e8c66a;
+}
+aside {
+	color: ffc675;
+}
+article {
+	color: e89c6c;
+}
+footer {
+	color: ff957e;
+}
+section {
+	color: ffe2b8;
+}
+
