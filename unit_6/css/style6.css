@@ -6,8 +6,6 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size:16px;
 	font-weight:400;
-	padding: 5em;
-	width: 1000px;
 }
 p {
 	max-width: 800px;
@@ -17,7 +15,7 @@ p {
 section {
 	background-color: #ffe2b8;
 	border: 1px black solid;
-	padding:4em 0;	
+	padding: 20px;	
 }
 h1 {
 	font-size: 1.5em;
@@ -35,7 +33,7 @@ header img {
 	width: 10em;
 }
 header {
-	background-color: #ffed74;
+	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -46,33 +44,14 @@ nav {
 	padding: 20px;
 }
 
-#two_column {
-	background-color: #ffb7cf;
+#aside, #article {
 	border: 1px black solid;
-	padding: 20px;
 }
-
-#left {
-	background-color: #e582a2
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 30%;
-
-}
-
-#right {
-	background-color: #e55b88;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 62%;
-}
-
 footer {
 	background-color: #ff957e;
 	border: 1px black solid;
 	padding: 20px;
 }
+
 
 
