@@ -6,21 +6,20 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size:16px;
 	font-weight:400;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 p {
 	max-width: 800px;
 	word-wrap: break-word;
 	padding: 20px; 
 }
-section {
-	background-color: #ffe2b8;
-	border: 1px black solid;
+div {
 	padding: 20px;	
 }
 h1 {
 	font-size: 1.5em;
 	font-weight:700;
-	padding: 5em;
 }
 h2 {
 	font-size: 1.25em;
@@ -34,24 +33,40 @@ header img {
 }
 header {
 	background-color: #fff;
-	border: 1px black solid;
-	padding: 20px;
 }
 nav {
-	float: left;
-	background-color: #e8c66a;
-	border: 1px black solid;
-	padding: 20px;
+	padding: 50px;
+	border-bottom: 1px black solid;
 }
-
-#aside, #article {
-	border: 1px black solid;
+a {
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+	font-color: #222;
+}
+aside {
+	float: right;
+	width:50%;
+	padding: 20px;
+	
+}
+article{
+	float: left;
+	width:50%;
+	padding: 20px;
 }
 footer {
-	background-color: #ff957e;
-	border: 1px black solid;
+	background-color: #d3d3d3;
 	padding: 20px;
+	clear: both;
 }
+#goal {
+	border-bottom: 1px black solid;
+}
+
+
+
 
 
 
